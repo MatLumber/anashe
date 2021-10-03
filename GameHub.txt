@@ -1,4 +1,14 @@
 [
+  {
+    "id": 60,
+    "title": "King Legacy",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua\"))()",
+    "date": "Auto-Farm, ESP, XP-FARM, Etc!. ",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/786475894876536845/894356962140102696/KingLegacy.jpg"
+    }
+  },
    {
     "id": 59,
     "title": "Mad City (Jay Hub)",
@@ -599,4 +609,5 @@
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2021/08/f3658200-3abc-11ea-973a-b024e3a60673-150x150.png"
     }
   },
+  
 ]
