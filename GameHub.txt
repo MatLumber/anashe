@@ -1,7 +1,7 @@
 [
    {
     "id": 59,
-    "title": "Mad City (JayHub)",
+    "title": "Mad City (Jay Hub)",
     "excerpt": "loadstring(game:HttpGet(\"https://jack1214060.xyz/jayhub\", true))()",
     "date": "Auto-Farm, XP-Farm, Etc!.",
     "slug": "yikes-eaea",
