@@ -1,14 +1,64 @@
 [
-  {
-    "id": 60,
-    "title": "King Legacy",
-    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua\"))()",
-    "date": "Auto-Farm, ESP, XP-FARM, Etc!. ",
+   {
+    "id": 65,
+    "title": "Ultra Clickers 4 (Auto Clicker)",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ZfLsEZ7U\", true))()",
+    "date": "By: APIO#6868",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/786475894876536845/894356962140102696/KingLegacy.jpg"
-    }
-  },
+      "thumbnail": "https://t2.rbxcdn.com/e6d16f47688e61a23a4327b4756b2cdb"
+    }  
+  },  
+   {
+    "id": 64,
+    "title": "Build a boat (Vynixius)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/BABFT\", true))()",
+    "date": "Auto-farm, TP, Etc!.",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/894655786687549522/unknown.png"
+    }  
+  },  
+   {
+    "id": 63,
+    "title": "Prison Life (P#rnHub)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AviansEpic/prisonlifehub/main/main.lua\", true))()",
+    "date": "Trolling, Combat, Etc!.",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/894654996963012710/unknown.png"
+    }  
+  },  
+   {
+    "id": 62,
+    "title": "Epic Minigames GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Epic%20Minigames/EpicMinigamesGUI\", true))()",
+    "date": "Auto-Win, Etc!.",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/894654385911631872/unknown.png"
+    }  
+  },  
+   {
+    "id": 61,
+    "title": "Ro-Ghoul GUI Script",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JRL-lav/Main/main/Ro-Ghoul\", true))()",
+    "date": "Auto-Farm, ESP, Etc!.",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/894653729570181160/unknown.png"
+    }  
+  },  
+   {
+    "id": 60,
+    "title": "Sharkbite GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/YYVLbzVg\", true))()",
+    "date": "Auto-Farm, ESP, Etc!.",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t4.rbxcdn.com/ff8e82a95b84ca21d6837dd38c4fe72b"
+    }  
+  },  
    {
     "id": 59,
     "title": "Mad City (Jay Hub)",
@@ -609,5 +659,4 @@
       "thumbnail": "https://rbxscripts.xyz/wp-content/uploads/2021/08/f3658200-3abc-11ea-973a-b024e3a60673-150x150.png"
     }
   },
-  
 ]
