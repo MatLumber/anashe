@@ -1,4 +1,54 @@
 [
+  {
+    "id": 70,
+    "title": "Anime Fighting Simulator (GUI)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Code-Fludex/Lua-Scripts/main/AnimeFightingSim.lua\", true))()",
+    "date": "Auto-Farm and More!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/896141411873849354/unknown.png"
+    }  
+  },  
+  {
+    "id": 69,
+    "title": "Zombie Attack (Script)",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/kB7S5QSj\", true))()",
+    "date": "Auto-Farm/Aimbot",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t6.rbxcdn.com/63dbab184a1471a5e51921e0265727dc"
+    }  
+  },  
+  {
+    "id": 68,
+    "title": "Defender's Depot (Script)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScripterHaxer/Script/main/Defender's%20Depot\", true))()",
+    "date": "Auto-Farm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/896139396544356442/unknown.png"
+    }  
+  },  
+   {
+    "id": 67,
+    "title": "Project Lazarus (Script)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PatricioTGN1/TGNScriptsX/main/Project%20lazarus%20instakill.txt\", true))()",
+    "date": "Instakill OP!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t3.rbxcdn.com/3e47ddeb1ff13f920c0017437305c30c"
+    }  
+  },  
+   {
+    "id": 66,
+    "title": "Adopt Me (New GUI)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub\", true))()",
+    "date": "Auto-Farm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/896136369569677312/unknown.png"
+    }  
+  },  
    {
     "id": 65,
     "title": "Ultra Clickers 4 (Auto Clicker)",
@@ -511,12 +561,12 @@
   },  
    {
     "id": 15,
-    "title": "Murder Mytstery 2 (Script)",
-    "excerpt": "https://gist.githubusercontent.com/TurkOyuncu99/16d946bfe0a0ed98a8e32de362fd4217/raw/0681fa979da042841f4e71a52490fdc3a2a16376/cac\", true))()",
+    "title": "Murder Mytstery 2 (Updated)",
+    "excerpt": "https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script\", true))()",
     "date": "Auto-farm, esp, Etc!.",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://cdn.discordapp.com/attachments/862387521340833876/893991218491568188/murder-2.png"
+      "thumbnail": "https://cdn.discordapp.com/attachments/862387521340833876/896135457505693696/unknown.png"
     }  
   },  
    {
