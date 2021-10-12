@@ -11,7 +11,7 @@
   },  
  {
     "id": 72,
-    "title": "Bedwars VapeV4 script",
+    "title": "Bedwars VapeV4",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
     "date": "KillAura, ESP, Bednuker, Speed, Antivoid, Schematica!",
     "slug": "yikes-eaea",
