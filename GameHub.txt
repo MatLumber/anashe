@@ -1,5 +1,25 @@
 [
  {
+    "id": 73,
+    "title": "Da Hood (RAYX)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/urmomugly/lua-project/main/Script%26/RAYXV001\", true))()",
+    "date": "Unban, Trolling, And More!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.upload.systems/uploads/gckYuEfN.png"
+    }  
+  },  
+ {
+    "id": 72,
+    "title": "Bedwars VapeV4 script",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
+    "date": "KillAura, ESP, Bednuker, Speed, Antivoid, Schematica!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://i.imgur.com/Pceb1T9.png"
+    }  
+  },  
+ {
     "id": 71,
     "title": "Black136GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/7yVDvsPw\", true))()",
