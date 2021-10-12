@@ -1,7 +1,7 @@
 [
  {
     "id": 71,
-    "title": "Black136Gui",
+    "title": "Black136GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/7yVDvsPw\", true))()",
     "date": "Btools, TP And More!",
     "slug": "yikes-eaea",
