@@ -1,5 +1,25 @@
 [
  {
+    "id": 75,
+    "title": "FPS Booster",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/MMtQuSL6\", true))()",
+    "date": "For Bad PCS!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.linkvertise.com/link_images/59906"
+    }  
+  },  
+ {
+    "id": 74,
+    "title": "SKYWARS GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/r9gnA\", true))()",
+    "date": "Godmode, Autofarm Coins, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://i.imgur.com/ePB5ytC.png"
+    }  
+  },  
+ {
     "id": 73,
     "title": "Da Hood (RAYX)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/urmomugly/lua-project/main/Script%26/RAYXV001\", true))()",
