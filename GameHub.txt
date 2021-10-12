@@ -6,7 +6,7 @@
     "date": "Btools, TP And More!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://images-ext-2.discordapp.net/external/LrDiZrb62h_x5p4UAlXGkJetZ6J5PjQESvNTPbUevrI/%3Fwidth%3D722%26height%3D406/https/media.discordapp.net/attachments/785159884499976202/897498488902914079/Fondo_fuze136.png"
+      "thumbnail": "https://media.discordapp.net/attachments/785159884499976202/897498488902914079/Fondo_fuze136.png?width=722&height=406"
     }  
   },  
   {
