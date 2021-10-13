@@ -1,4 +1,14 @@
 [
+{
+    "id": 76,
+    "title": "Squid Game GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Urbanstorms/DomainX/main/Squid%20Game.lua\", true))()",
+    "date": "Win in all games!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/786475894876536845/897714684608778240/SquidGame.png"
+    }  
+  },  
  {
     "id": 75,
     "title": "FPS Booster",
