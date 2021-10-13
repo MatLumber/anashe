@@ -1,5 +1,55 @@
 [
 {
+    "id": 81,
+    "title": "Da Hood (Arctic)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PolarWasHere/Arctic/main/Arctic\", true))()",
+    "date": "Autofarm, Combat, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/897856707882012742/unknown.png"
+    }  
+  },  
+{
+    "id": 80,
+    "title": "Demonfall GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ArponAG/Scripts/main/TrigonDemonfallScript.lua\", true))()",
+    "date": "Autofarm, ESP, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/897855684866088970/unknown.png"
+    }  
+  },  
+{
+    "id": 79,
+    "title": "Ninja Legends GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/g5btkwbk\", true))()",
+    "date": "Made by a tgn support!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/897854975839989810/unknown.png"
+    }  
+  },  
+{
+    "id": 78,
+    "title": "Prison Life GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/g5btkwbk\", true))()",
+    "date": "Made by a tgn support!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/897854103965794304/unknown.png"
+    }  
+  },  
+{
+    "id": 77,
+    "title": "Car Hub",
+    "excerpt": "loadstring(game:HttpGet(\"https://carhub.wtf/script\", true))()",
+    "date": "#1 Hub for car games!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/786475894876536845/897853377629814874/unknown.png"
+    }  
+  },  
+{
     "id": 76,
     "title": "Squid Game GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Urbanstorms/DomainX/main/Squid%20Game.lua\", true))()",
