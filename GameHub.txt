@@ -1,5 +1,15 @@
 [
 {
+    "id": 83,
+    "title": "Jailbreak (NEW)!",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1\", true))()",
+    "date": "Autofarm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/897860312626241637/unknown.png"
+    }  
+  },  
+{
     "id": 82,
     "title": "Ninja Legends 2 GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://sinnyno1.github.io/King-Hack/Script/Ninja-Legend-2.lua\", true))()",
