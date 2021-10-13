@@ -1,5 +1,15 @@
 [
 {
+    "id": 82,
+    "title": "Ninja Legends 2 GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://sinnyno1.github.io/King-Hack/Script/Ninja-Legend-2.lua\", true))()",
+    "date": "Autofarm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/897858750310920232/unknown.png"
+    }  
+  },  
+{
     "id": 81,
     "title": "Da Hood (Arctic)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PolarWasHere/Arctic/main/Arctic\", true))()",
