@@ -3,7 +3,7 @@
     "id": 87,
     "title": "Blox Fruits (MHEE HUB)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB\", true))()",
-    "date": "Autoclicker, Etc!",
+    "date": "Autofarm, Etc!",
     "slug": "yikes-eaea",
     "featured_image": {
       "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898216671704137728/unknown.png"
