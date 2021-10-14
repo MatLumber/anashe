@@ -1,5 +1,45 @@
 [
 {
+    "id": 87,
+    "title": "Blox Fruits (MHEE HUB)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB\", true))()",
+    "date": "Autoclicker, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898216671704137728/unknown.png"
+    }  
+  },  
+{
+    "id": 86,
+    "title": "Strongest Punch Simulator",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/yqZUNaGf\", true))()",
+    "date": "Autoclicker, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/896461828345970749/898188773056192522/unknown.png"
+    }  
+  },  
+{
+    "id": 85,
+    "title": "Grand Piece (GUI)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Jakekill871/public-scripts/master/GrandPieceOnlineGUI\", true))()",
+    "date": "Autofarm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898216003425697792/unknown.png"
+    }  
+  },  
+{
+    "id": 84,
+    "title": "Ro-Ghoul (Simple UI)",
+    "excerpt": "loadstring(game:HttpGet(\"https://aizen.ml/weis/RoGhoul.lua\", true))()",
+    "date": "Autofarm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://i.ibb.co/3yZBT6F/Roblox-Player-Beta-DXGGWl9cb-B.png"
+    }  
+  },  
+{
     "id": 83,
     "title": "Jailbreak (NEW)!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/wawsdasdacx/ohascriptnrrewading/main/jbsaxcriptidk1\", true))()",
