@@ -1,5 +1,15 @@
 [
 {
+    "id": 88,
+    "title": "Squid Game Script",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/XY56d1q2\", true))()",
+    "date": "Squid Game GUI!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/828320128868548698/898674431164047390/maxresdefault.png?width=1202&height=676"
+    }  
+  },  
+{
     "id": 87,
     "title": "Blox Fruits (MHEE HUB)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB\", true))()",
