@@ -1,7 +1,7 @@
 [
 {
     "id": 90,
-    "title": "Meep City GUI",
+    "title": "MeepCity GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kilav3rm/Scripts/main/MeepCity\", true))()",
     "date": "Auto-Farm And Others!",
     "slug": "yikes-eaea",
