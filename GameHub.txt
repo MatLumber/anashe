@@ -1,6 +1,6 @@
 [
 {
-    "id": 95,
+    "id": 94,
     "title": "bloxburg Script",
     "excerpt": "loadstring(game:HttpGet(\"https://cdn.applebee1558.com/alphax/AlphaX.lua\", true))()",
     "date": "Auto-Farm, Etc!",
@@ -10,23 +10,13 @@
     }  
   },  
 {
-    "id": 94,
+    "id": 93,
     "title": "Rox Hub",
     "excerpt": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/HaxxV1/813746481c0cd0b8ad367edfcfd0c3d8/raw\", true))()",
     "date": "Rox Hub +85 Games",
     "slug": "yikes-eaea",
     "featured_image": {
       "thumbnail": "https://media.discordapp.net/attachments/603985330877497365/898709358689550436/unknown.png?width=690&height=473"
-    }  
-  },  
-{
-    "id": 93,
-    "title": "Work At A Pizza Place Script",
-    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/XFAGFUA5\", true))()",
-    "date": "Auto-Farm, Sit Kil, Etc!",
-    "slug": "yikes-eaea",
-    "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/834139888550936656/898709201117925426/unknown.png"
     }  
   },  
 {
@@ -39,6 +29,8 @@
       "thumbnail": "https://media.discordapp.net/attachments/834139888550936656/898709201117925426/unknown.png"
     }  
   },  
+{
+
 {
     "id": 91,
     "title": "Big Paintball Script",
