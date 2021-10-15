@@ -1,7 +1,7 @@
 [
 {
     "id": 89,
-    "title": "Prison Life (HOT)!",
+    "title": "Prison Life (HOT)🔥!",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife\", true))()",
     "date": "Admin Script OP!",
     "slug": "yikes-eaea",
