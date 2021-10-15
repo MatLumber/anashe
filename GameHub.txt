@@ -29,7 +29,6 @@
       "thumbnail": "https://media.discordapp.net/attachments/834139888550936656/898709201117925426/unknown.png"
     }  
   },  
-{
 
 {
     "id": 91,
