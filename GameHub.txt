@@ -26,7 +26,7 @@
     "date": "Auto-Farm, Sit Kil, Etc!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/834139888550936656/898709201117925426/unknown.png"
+      "thumbnail": "https://media.discordapp.net/attachments/897457028954488852/898718401378271312/unknown.png"
     }  
   },  
 
