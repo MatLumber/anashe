@@ -6,7 +6,7 @@
     "date": "Squid Game GUI!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/828320128868548698/898674431164047390/maxresdefault.png?width=1202&height=676"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898675871836143616/unknown.png"
     }  
   },  
 {
