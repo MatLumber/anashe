@@ -1,5 +1,25 @@
 [
 {
+    "id": 97,
+    "title": "Sharkbite GUI #2",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/fLDczk07\", true))()",
+    "date": "Aimbot, inf Ammo, ESP!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/889609866220556318/899059522872672286/unknown.png"
+    }  
+  },  
+{
+    "id": 96,
+    "title": "Counter Blox Script",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NecessaryPaint/ur-mom/master/CBRO_Modded_Weapons.lua\", true))()",
+    "date": "Kill All Script!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://static.wikia.nocookie.net/roblox/images/b/bc/Counterbloxp.jpg/revision/latest?cb=20191006235559&path-prefix=es"
+    }  
+  },  
+{
     "id": 95,
     "title": "ChatSpy",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Kph916LG\", true))()",
