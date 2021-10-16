@@ -1,7 +1,7 @@
 [
 {
     "id": 97,
-    "title": "Sharkbite GUI #2",
+    "title": "Sharkbite (Pepsi Byte)",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/fLDczk07\", true))()",
     "date": "Aimbot, inf Ammo, ESP!",
     "slug": "yikes-eaea",
