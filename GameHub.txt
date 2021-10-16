@@ -501,23 +501,13 @@
     }  
   },  
    {
-    "id": 45,
-    "title": "Work at a Pizza Place Script",
-    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/bd2NaNY8\", true))()",
-    "date": "Autofarm, tp, fe song, Etc!.",
-    "slug": "yikes-eaea",
-    "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/872221062383931393/880256365786976287/unknown.png"
-    }  
-  },  
-   {
     "id": 44,
     "title": "R15 Gui FE",
-    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/bd2NaNY8\", true))()",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/FKAPc6Vf\", true))()",
     "date": "Free Animations FE (R15)!.",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/894009627681890385/unknown.png"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898971550651404308/unknown.png"
     }  
   },  
    {
