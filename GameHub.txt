@@ -1,5 +1,15 @@
 [
 {
+    "id": 98,
+    "title": "Phantom Forces OP",
+    "excerpt": "loadstring(game:HttpGet(\"https://ehub.fun/raw/script.lua\", true))()",
+    "date": "Aimbot, Fov, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/899093682320465951/unknown.png?width=580&height=473"
+    }  
+  },  
+{
     "id": 97,
     "title": "Sharkbite (Pepsi Byte)",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/fLDczk07\", true))()",
