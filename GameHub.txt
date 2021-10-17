@@ -1,7 +1,7 @@
 [
 {
     "id": 98,
-    "title": "Phantom Forces OP",
+    "title": "Phantom Forces GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://ehub.fun/raw/script.lua\", true))()",
     "date": "Aimbot, Fov, Etc!",
     "slug": "yikes-eaea",
