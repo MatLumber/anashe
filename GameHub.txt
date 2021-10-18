@@ -1,5 +1,15 @@
 [
 {
+    "id": 99,
+    "title": "Ghoul Hub V2",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Ocean-Theme/main/Loadstring\", true))()",
+    "date": "Discord.gg/vqpVer3h8M",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/899456741341798462/899463138200678491/Screenshot_266.png?width=840&height=473"
+    }  
+  },  
+{
     "id": 98,
     "title": "Phantom Forces GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://ehub.fun/raw/script.lua\", true))()",
