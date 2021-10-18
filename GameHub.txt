@@ -333,11 +333,11 @@
    {
     "id": 65,
     "title": "Ultra Clickers 4 (Auto Clicker)",
-    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ZfLsEZ7U\", true))()",
-    "date": "By: APIO#6868",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhoulScriptsRoblox/Ghoul-Hub---Ultra-Clickers-4/main/GhoulHub\", true))()",
+    "date": "Discord.gg/vqpVer3h8M",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://t2.rbxcdn.com/e6d16f47688e61a23a4327b4756b2cdb"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/899457708988715048/unknown.png"
     }  
   },  
    {
