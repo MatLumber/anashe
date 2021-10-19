@@ -1,12 +1,12 @@
 [
 {
-    "id": 99,
-    "title": "Ghoul Hub V2 (Prison Life, Ultra Clickers 4, Champion Simulator)",
-    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Ocean-Theme/main/Loadstring\", true))()",
-    "date": "Discord.gg/vqpVer3h8M",
+    "id": 100,
+    "title": "Vehicle Legends GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/LjQzGFEb\", true))()",
+    "date": "Auto-Farm, Etc!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/899464476762460170/unknown.png"
+      "thumbnail": "https://cdn.discordapp.com/attachments/822284685354729482/900004582908903434/unknown.png"
     }  
   },  
 {
