@@ -10,7 +10,6 @@
     }  
   },  
 {
-{
     "id": 100,
     "title": "Vehicle Legends GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/LjQzGFEb\", true))()",
